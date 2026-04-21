@@ -12,7 +12,3 @@ seaborn
 jupyter
 openpyxl
 danatools
-
-# Uso de IA
-
-Solo se utilizo IA para generar algunos de los problemas fisicos y para refinar partes del codigo.
